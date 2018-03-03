@@ -1,6 +1,9 @@
 # Mandelbrot Generator
 This is a sample rust program created by following the tutorial in the O'Reilly Programming Rust book.
 
+
+![Example Mandelbrot Generation](example.png)
+
 ## Compilation
 Run `cargo build --release`
 
